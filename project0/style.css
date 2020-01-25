@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content {
+    position: relative;
+    background-color: aqua;
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    font-size: large;
+
+}
+;
+#page1,
+#page3 {
+    color: red;
+    align-items: center;
+    font-size: larger;
+}
+;
+#page2,
+#page4 {
+    color: yellow;
+    align-items: center;
+    font-size: larger;
+};
+
+tr {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    table-layout: auto;
+}
+
